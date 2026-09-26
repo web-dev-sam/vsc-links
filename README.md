@@ -12,7 +12,7 @@ _Custom links in VSCode based on any pattern. 🔗_
 &nbsp;
 
 ## Why does this exist?
-1. VSCode only links what it already recognises; a regex plus a tiny handler function should be enough to make anything in your code clickable.
+VSCode only links what it already recognises; a regex plus a tiny handler function should be enough to make anything in your code clickable.
 
 ## How to set it up
 - Install the extension [here](https://marketplace.visualstudio.com/items?itemName=webry.vsc-links)

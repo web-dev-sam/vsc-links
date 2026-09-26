@@ -12,9 +12,7 @@
       "alt": "License: MIT License"
     }
   ],
-  "why": [
-    "VSCode only links what it already recognises; a regex plus a tiny handler function should be enough to make anything in your code clickable."
-  ],
+  "why": "VSCode only links what it already recognises; a regex plus a tiny handler function should be enough to make anything in your code clickable.",
   "sections": [
     {
       "title": "How to set it up",
